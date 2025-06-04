@@ -7,6 +7,14 @@
 - Python 3.x
 - [pytest](https://docs.pytest.org/)（テストを実行する場合）
 
+## インストール
+
+以下のコマンドでテスト実行に必要なパッケージをインストールします。
+
+```bash
+pip install pytest
+```
+
 ## 使い方
 
 ### シリンダーモデル `cylinder.py`
